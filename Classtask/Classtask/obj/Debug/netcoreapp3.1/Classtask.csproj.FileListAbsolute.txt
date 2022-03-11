@@ -1,0 +1,4 @@
+C:\Users\tu7bg7w6d\Desktop\dd\Classtask\Classtask\obj\Debug\netcoreapp3.1\Classtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7bg7w6d\Desktop\dd\Classtask\Classtask\obj\Debug\netcoreapp3.1\Classtask.AssemblyInfoInputs.cache
+C:\Users\tu7bg7w6d\Desktop\dd\Classtask\Classtask\obj\Debug\netcoreapp3.1\Classtask.AssemblyInfo.cs
+C:\Users\tu7bg7w6d\Desktop\dd\Classtask\Classtask\obj\Debug\netcoreapp3.1\Classtask.csproj.CoreCompileInputs.cache
